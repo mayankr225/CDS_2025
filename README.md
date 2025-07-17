@@ -6,9 +6,10 @@ A collection of Jupyter Notebooks from the Cybersecurity Data Science course lab
 
 ## Authors
 
-- Mayank Rawat
-- Astha Gupta
-- Akshita Badola
+- Mayank Rawat (640192)
+- Astha Gupta (640204)
+- Akshita Badola (642493)
+
 
 ---
 
