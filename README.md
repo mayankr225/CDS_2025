@@ -14,7 +14,7 @@ A collection of Jupyter Notebooks from the Cybersecurity Data Science course lab
 
 ## **Cyber Security Project: Vulnerability Prediction in Source Code**
 
-This repository contains lab session materials for the Cyber Security class at Hamburg University of Technology (SoSe 2023), focusing on the detection and prediction of security vulnerabilities in source code using machine learning techniques.
+This repository contains lab session materials for the Cyber Security class at Hamburg University of Technology (SoSe 2025), focusing on the detection and prediction of security vulnerabilities in source code using machine learning techniques.
 
 The project is divided into three main parts, guiding you through the complete pipeline of vulnerability prediction: dataset creation, data preprocessing, model training, and evaluation.
 
@@ -22,13 +22,13 @@ The project is divided into three main parts, guiding you through the complete p
 
 ### **Project Structure**
 
-- **CDS_project_part1_MAYANK_RAWAT.ipynb**  
+- **CDS_Part1.ipynb**  
   Focuses on the basics of an ML pipeline, data loading, and model evaluation.
 
-- **CDS_Project_Part_2_Mayank_Rawat.ipynb**  
+- **CDS_Part2.ipynb**  
   Covers the creation of a custom vulnerability dataset using ProjectKB.
 
-- **CDS_project_part3.ipynb**  
+- **CDS_Part3.ipynb**  
   Deals with choosing, training, and evaluating a machine learning model for vulnerability prediction.
 
 ---
@@ -98,13 +98,13 @@ To run these notebooks, you will need a Python environment with the following li
 
 - pandas
 - numpy
-- h5py (for Part 1)
-- torch (for PyTorch tasks, if chosen)
-- tensorflow / keras (for TensorFlow tasks, as seen in Part 3)
+- h5py
+- torch
+- tensorflow / keras
 - scikit-learn
 - matplotlib
-- PyDriller (for Part 2)
-- PyYAML (for Part 2)
+- PyDriller
+- PyYAML
 - git (for cloning ProjectKB)
 
 **Recommended Environment:**  
@@ -112,6 +112,6 @@ Google Colab or similar Jupyter environment (for computational requirements and 
 If your datasets are stored on Google Drive, ensure you mount your Drive.
 
 **Important Note:**  
-Before running the notebooks, update all dataset file paths and locations to match your local or Google Drive setup.
+Before running the notebooks, update all dataset file paths and locations to match your local or your mounted Google Drive setup.
 
 ---
