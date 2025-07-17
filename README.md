@@ -1,6 +1,14 @@
 # CDS_2025
 
-Jupyter Notebooks from lab sessions of the Cybersecurity Data Science course, along with the final report detailing our analysis, findings, and methodologies.
+A collection of Jupyter Notebooks from the Cybersecurity Data Science course lab sessions, accompanied by a comprehensive final report outlining our analysis, findings, and methodologies.
+
+---
+
+## Authors
+
+- Mayank Rawat
+- Astha Gupta
+- Akshita Badola
 
 ---
 
