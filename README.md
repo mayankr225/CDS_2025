@@ -48,7 +48,7 @@ The project is divided into three main parts, guiding you through the complete p
 - Create a dataset of security vulnerabilities (Java methods, CVEs from ProjectKB)
 
 #### **Model Development for Vulnerability Prediction**
-- Choose an appropriate ML model architecture (RNN, CNN, MLP, GRU)
+- Choose an appropriate ML model architecture 
 - Preprocess the dataset for the chosen model
 - Split datasets for cross-validation (train, test, validation)
 - Develop and implement a model training pipeline
@@ -71,7 +71,7 @@ Tasks include building a data loader for HDF5 files and generating a table of ra
 - Identify and extract both "fixed" and "vulnerable" method versions from commits
 
 #### **Part 3: ML Model Training and Evaluation**
-- Choose a suitable ML model architecture (CNN, LSTM, GRU)
+- Choose a suitable ML model architecture (CNN, BiLSTM)
 - Preprocess the dataset (tokenization, padding)
 - Split the dataset into training, validation, and test sets
 - Implement a training pipeline (loss function monitoring, early stopping)
